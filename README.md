@@ -2,7 +2,7 @@
 
 A simple, engaging, and accessible web platform designed to help young learners and individuals with intellectual disabilities master the English alphabet. Built with **React.js**, the platform offers interactive visuals, intuitive navigation, and an inclusive design to support personalized learning.
 
-🚀 [Live Demo](https://YOUR_USERNAME.github.io/quote-generator)
+🚀 [Live Demo](https://up-learn-hazel.vercel.app/)
 
 ---
 
