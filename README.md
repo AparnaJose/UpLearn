@@ -16,6 +16,7 @@ A simple, engaging, and accessible web platform designed to help young learners 
 
 ## 📁 Project Structure
 
+\`\`\`
 alphabet-learning-platform/
 ├── public/
 │ ├── images/ # Alphabet illustrations
@@ -28,6 +29,7 @@ alphabet-learning-platform/
 │ └── index.js
 ├── package.json
 └── README.md
+\`\`\`
 
 ---
 
